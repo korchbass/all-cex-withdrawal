@@ -1,8 +1,8 @@
 import time
 import ccxt
 import random
-
-#----main-options----#
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+#----main-options----# 
 switch_cex = "binance"       # binance, mexc, kucoin, gate, okx, huobi, bybit
 symbolWithdraw = "USDT"      # символ токена
 network = "Arbitrum One"     # ID сети
